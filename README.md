@@ -1,4 +1,4 @@
-# aws-webapp
+# AWS web application
 
 ## Spring Init Template
 
