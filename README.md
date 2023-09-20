@@ -12,4 +12,4 @@
 
 [Deploy your Spring Boot Applications using CodeDeploy and CodePipeline](https://enlear.academy/deploy-your-spring-boot-application-using-codedeploy-and-codepipeline-4d853b1e486e)
 
-[Lightwight template](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.1.3&packaging=jar&jvmVersion=17&groupId=se.distansakademin&artifactId=code-pipeline-demo&name=code-pipeline-demo&description=Demo%20project%20for%20Spring%20Boot%20Elastic%20Beanstalk&packageName=se.distansakademin.code-pipeline-demo&dependencies=devtools,web,thymeleaf)
+[Lightweight template](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.1.3&packaging=jar&jvmVersion=17&groupId=se.distansakademin&artifactId=code-pipeline-demo&name=code-pipeline-demo&description=Demo%20project%20for%20Spring%20Boot%20Elastic%20Beanstalk&packageName=se.distansakademin.code-pipeline-demo&dependencies=devtools,web,thymeleaf)
